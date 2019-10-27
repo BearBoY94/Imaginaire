@@ -8,5 +8,5 @@ Our small classroom has one lesson so far: a demonstration that shows students t
 
 Here is a small demo that visualizes this: https://ludicrous-cadet.glitch.me
 
-Front end: HTML, css, regular javascript (for the physics/physics engine)
+Front end: HTML, css, regular javascript (for the physics/physics engine) <br/>
 NOT shown in this repository is a node.js back-end via socket.io
